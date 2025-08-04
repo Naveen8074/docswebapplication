@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Akira Hayashi",
+    "gender": "Male",
+    "specialization": "Cardiologist",
+    "image": "https://i.postimg.cc/tTJXmbv8/IMG-20250802-135429.png",
+    "availability": "Available Today",
+    "bio": "Renowned for performing complex cardiac surgeries with high success rates.",
+    "time": "10:00 AM - 2:00 PM"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Sora Ayanami",
+    "gender": "Female",
+    "specialization": "Dermatologist",
+    "image": "https://i.postimg.cc/7ZXDTwXc/IMG-20250802-135444.png",
+    "availability": "Fully Booked",
+    "bio": "Expert in skin rejuvenation and acne treatment.",
+    "time": "11:00 AM - 2:00 PM"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Haruto Yamazaki",
+    "gender": "Male",
+    "specialization": "Neurologist",
+    "image": "https://i.postimg.cc/htJvgJKs/IMG-20250802-135542.png",
+    "availability": "Available Today",
+    "bio": "Specialist in neurodegenerative diseases and brain imaging.",
+    "time": "1:00 PM - 5:00 PM"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Yui Hoshino",
+    "gender": "Female",
+    "specialization": "Pediatrician",
+    "image": "https://i.postimg.cc/c4SrR1M4/IMG-20250802-135501.png",
+    "availability": "Available Today",
+    "bio": "Friendly pediatrician known for her child-centric treatment.",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Ren Takahashi",
+    "gender": "Male",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://i.postimg.cc/N06gfmS6/IMG-20250802-135703.png",
+    "availability": "On Leave",
+    "bio": "Experienced in treating sports injuries and bone fractures.",
+    "time": "10:00 AM - 1:00 PM"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Aiko Fujimoto",
+    "gender": "Female",
+    "specialization": "Gynecologist",
+    "image": "https://i.postimg.cc/CLr5WCpd/IMG-20250802-135523.png",
+    "availability": "Available Today",
+    "bio": "Trusted by many for prenatal and postnatal care.",
+    "time": "12:00 PM - 3:00 PM"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Tetsuya Kuroda",
+    "gender": "Male",
+    "specialization": "Psychiatrist",
+    "image": "https://i.postimg.cc/N0tv4w66/IMG-20250802-135429.png",
+    "availability": "Fully Booked",
+    "bio": "Focused on adolescent mental health and anxiety disorders.",
+    "time": "1:00 PM - 4:00 PM"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Mio Kanzaki",
+    "gender": "Female",
+    "specialization": "Endocrinologist",
+    "image": "https://i.postimg.cc/j2dq128z/IMG-20250802-135603.png",
+    "availability": "Available Today",
+    "bio": "Deals with hormone imbalances and diabetes.",
+    "time": "10:00 AM - 1:00 PM"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Kaito Nakahara",
+    "gender": "Male",
+    "specialization": "ENT Specialist",
+    "image": "https://i.postimg.cc/xT8TykNQ/IMG-20250802-135623.png",
+    "availability": "Available Today",
+    "bio": "Known for treating chronic sinus and hearing issues.",
+    "time": "10:00 AM - 12:00 PM"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Hina Sakuraba",
+    "gender": "Female",
+    "specialization": "General Physician",
+    "image": "https://i.postimg.cc/SxzS3wGt/IMG-20250802-135641.png",
+    "availability": "Fully Booked",
+    "bio": "Handles a wide range of common health issues.",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Riku Kamado",
+    "gender": "Male",
+    "specialization": "Gastroenterologist",
+    "image": "https://i.postimg.cc/N06gfmS6/IMG-20250802-135703.png",
+    "availability": "Available Today",
+    "bio": "Expert in digestive system disorders and nutrition.",
+    "time": "2:00 PM - 5:00 PM"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Nanami Mizuki",
+    "gender": "Female",
+    "specialization": "Pulmonologist",
+    "image": "https://i.postimg.cc/Y9ncMGJR/IMG-20250802-140104.png",
+    "availability": "Available Today",
+    "bio": "Treats lung diseases like asthma and COPD.",
+    "time": "10:00 AM - 2:00 PM"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Hiroshi Saito",
+    "gender": "Male",
+    "specialization": "Radiologist",
+    "image": "https://i.postimg.cc/662bymRt/IMG-20250802-140324.png",
+    "availability": "On Leave",
+    "bio": "Skilled in imaging techniques like CT and MRI scans.",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Emiko Arai",
+    "gender": "Female",
+    "specialization": "Oncologist",
+    "image": "https://i.postimg.cc/7ZXDTwXc/IMG-20250802-135444.png",
+    "availability": "Available Today",
+    "bio": "Dedicated to treating cancer patients with compassion.",
+    "time": "1:00 PM - 5:00 PM"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Shinji Morita",
+    "gender": "Male",
+    "specialization": "Urologist",
+    "image": "https://i.postimg.cc/bYsW1JXX/IMG-20250802-140344.png",
+    "availability": "Fully Booked",
+    "bio": "Deals with urinary tract and male reproductive health.",
+    "time": "10:00 AM - 1:00 PM"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Risa Kobayashi",
+    "gender": "Female",
+    "specialization": "Ophthalmologist",
+    "image": "https://i.postimg.cc/c4SrR1M4/IMG-20250802-135501.png",
+    "availability": "Available Today",
+    "bio": "Provides eye checkups and laser surgeries.",
+    "time": "9:00 AM - 12:00 PM"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Kenta Fujiwara",
+    "gender": "Male",
+    "specialization": "Nephrologist",
+    "image": "https://i.postimg.cc/Qtg2KWLc/IMG-20250802-140422.png",
+    "availability": "Available Today",
+    "bio": "Expert in kidney function and dialysis treatment.",
+    "time": "11:00 AM - 2:00 PM"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Ayaka Shimizu",
+    "gender": "Female",
+    "specialization": "Hematologist",
+    "image": "https://i.postimg.cc/CLr5WCpd/IMG-20250802-135523.png",
+    "availability": "Fully Booked",
+    "bio": "Treats blood disorders and performs bone marrow tests.",
+    "time": "1:00 PM - 4:00 PM"
+  }
+]
